@@ -18,3 +18,7 @@ My bicycle journey
 + [千里走单骑：12-北京到上海骑记--Day11.扬州坑爹路](./BeiJingToShangHaiJourney/12-Beijing-to-ShangHai-journey.md)
 + [千里走单骑：13-北京到上海骑记--Day12.江南水桥](./BeiJingToShangHaiJourney/13-Beijing-to-ShangHai-journey.md)
 + [千里走单骑：13-北京到上海骑记--Day12.江南水桥](./BeiJingToShangHaiJourney/14-Beijing-to-ShangHai-journey.md)
+
+## 北京本地骑行
+
++ [战胜自己，征服北京四海记](./%E6%88%98%E8%83%9C%E8%87%AA%E5%B7%B1%EF%BC%8C%E5%BE%81%E6%9C%8D%E5%8C%97%E4%BA%AC%E5%9B%9B%E6%B5%B7%E8%AE%B0.md)
